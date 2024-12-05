@@ -1,0 +1,28 @@
+{
+	"passwordSecret": "1f0df2d3e45cace32a7b156257bc7b68",
+	"tokenSecret": "1f0df2d3e45cace32a7b156257bc7b68",
+	"tokenExpiresIn": 604800,
+	"tokenExpiresThreshold": 302400,
+	"passwordErrorLimit": 6,
+	"passwordStrength": "medium",
+	"bindTokenToDevice": false,
+	"passwordErrorRetryTime": 300,
+	"autoSetInviteCode": false,
+	"forceInviteCode": false,
+	"web": {
+		"oauth": {
+			"weixin-h5": {
+				"appid": "wxdd8766b03ba80482",
+				"appsecret": "814f0e209f54672412ded8025ee03621"
+			}
+		}
+	},
+	"mp-weixin": {
+		"oauth": {
+			"weixin": {
+				"appid": "wx7670dd170ec4fad6",
+				"appsecret": "1f0df2d3e45cace32a7b156257bc7b68"
+			}
+		}
+	}
+}

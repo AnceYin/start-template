@@ -1,0 +1,15 @@
+{
+	"name": "uploadAntiContent",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {},
+	"extensions": {},
+	"cloudfunction-config": {
+		"memorySize": 512,
+		"timeout": 60,
+		"triggers": [],
+		"runtime": "Nodejs18",
+		"keepRunningAfterReturn": true
+	}
+}
