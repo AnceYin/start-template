@@ -1,5 +1,6 @@
 <template>
   <view class="content">
+	  <button class="btn btn-primary">Button</button>
 	  <wd-button custom-class="w-[750rpx] bg-amber-400" type="primary">修改wd组件库样式</wd-button>
     <view
       class="bg-[url(https://pic1.zhimg.com/v2-3ee20468f54bbfefcd0027283b21aaa8_720w.jpg)] bg-[length:100%_100%] bg-no-repeat w-screen h-[41.54vw]">

@@ -4,7 +4,7 @@
 	},
 	"scripts": {
 		"postinstall": "weapp-tw patch"
-	  },
+	},
 	"uni_modules": {
 		"dependencies": [
 			"uni-id-pages"
@@ -13,8 +13,8 @@
 		"platforms": {
 			"cloud": {
 				"tcb": "y",
-                "aliyun": "y",
-                "alipay": "y"
+				"aliyun": "y",
+				"alipay": "y"
 			},
 			"client": {
 				"App": {
@@ -58,6 +58,7 @@
 	},
 	"devDependencies": {
 		"autoprefixer": "^10.4.19",
+		"daisyui": "^4.12.22",
 		"postcss": "^8.4.39",
 		"postcss-rem-to-responsive-pixel": "^6.0.1",
 		"tailwindcss": "^3.4.6",

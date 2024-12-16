@@ -16,7 +16,8 @@ module.exports = {
           negative: true
         }
       }
-    })
+    }),
+    require('daisyui'),
   ],
   corePlugins: {
     preflight: !isMp,
